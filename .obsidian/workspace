@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4d859f01a7c976",
+        "id": "ea318ce17c5f2235",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002 Temas/050 José Vitor.md",
+            "file": "Pecha Kucha 2 - Imagem.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ferro",
+                "query": "#rimagem",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 Temas/050 José Vitor.md",
+                "file": "Pecha Kucha 2 - Imagem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 Temas/050 José Vitor.md"
+                "file": "Pecha Kucha 2 - Imagem.md"
               }
             }
           },
@@ -105,14 +104,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 Temas/050 José Vitor.md",
+                "file": "Pecha Kucha 2 - Imagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "20aaaae370172a66",
@@ -125,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 Temas/050 José Vitor.md",
+                "file": "Pecha Kucha 2 - Imagem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,8 +146,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3414744101388293,
-                  "close": true
+                  "scale": 0.4885459780778733,
+                  "close": false
                 }
               }
             }
@@ -160,17 +158,17 @@
     "direction": "horizontal",
     "width": 282
   },
-  "active": "ca4d859f01a7c976",
+  "active": "ea318ce17c5f2235",
   "lastOpenFiles": [
-    "002 Temas/050 José Vitor.md",
-    "002 Temas/040 Produção do espaço.md",
-    "002 Temas/030 Pedagogia.md",
+    "Pecha Kucha 2 - Imagem.md",
+    "007 Orientações/Reunião 21-6.md",
+    "Sem título.md",
+    "002 Temas/021 Imagem.md",
+    "023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ACR025 - Aula 02.md",
     "ACR025 - Aula 02.md",
-    "Vilém Flusser.md",
-    "Line and Surface, FLUSSER {2002(1973)}.md",
-    "Highlights for FLUSSER, Writings (2002).md",
-    "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
-    "Line and Surface, FLUSSER {1997(2002)}.md",
-    "010 Arquivos de referências/pdf/MARX. Crítica ao programa de Gotha. (1891) [2012].pdf"
+    "Aula 2.md",
+    "PRJ - Arquitetura, tecnologias digitais e cultura contemporânea.md",
+    "002 Temas/050 José Vitor.md",
+    "002 Temas/040 Produção do espaço.md"
   ]
 }
