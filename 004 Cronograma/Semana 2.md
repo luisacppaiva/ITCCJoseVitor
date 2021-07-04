@@ -12,7 +12,7 @@
 ## sub-tema 
 #rimagem 
 ## Referências
-- [ ] [[FLUSSER, Writings (2002).pdf]]
+- [x] [[FLUSSER, Writings (2002).pdf]]
 
 ---
 # Interface 

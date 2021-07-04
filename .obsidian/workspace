@@ -4,7 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d8687dcdc36314f1",
+        "id": "ca4d859f01a7c976",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Line and Surface, FLUSSER {1997(2002)}.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "e6b0001c6009ba10",
         "type": "leaf",
         "state": {
           "type": "pdf",
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
+                "file": "Line and Surface, FLUSSER {1997(2002)}.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf"
+                "file": "Line and Surface, FLUSSER {1997(2002)}.md"
               }
             }
           },
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
+                "file": "Line and Surface, FLUSSER {1997(2002)}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
+                "file": "Line and Surface, FLUSSER {1997(2002)}.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,17 +171,17 @@
     "direction": "horizontal",
     "width": 282
   },
-  "active": "d8687dcdc36314f1",
+  "active": "ca4d859f01a7c976",
   "lastOpenFiles": [
+    "Line and Surface, FLUSSER {1997(2002)}.md",
     "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
-    "004 Cronograma/Semana 2.md",
-    "005 Fichamentos/BALTAZAR, Ana Paula - Além da representação_ possi.md",
-    "005 Fichamentos/BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998).md",
-    "010 Arquivos de referências/pdf/ARRUDA, Guilherme - Pedagogia sócio-espacial para democracia radical (2021).pdf",
-    "006 Textos/Resumo ITCC processo.md",
-    "006 Textos/Mapa mental - resumo.md",
-    "006 Textos/Mapa mental.md",
-    "005 Fichamentos/LEFEVBRE. The Survival of Capitalism (1976).md",
-    "ACR025 - Aula 02.md"
+    "010 Arquivos de referências/pdf/MARX. Crítica ao programa de Gotha. (1891) [2012].pdf",
+    "010 Arquivos de referências/pdf/MÉSZÁROS. A Educação para além do capital. [(1930) 2008].pdf",
+    "010 Arquivos de referências/pdf/MARX, ENGELS. A Ideologia Alemã (1932) [2002].pdf",
+    "010 Arquivos de referências/pdf/ILLICH. Sociedade sem Escolas. (1970) [1985].pdf",
+    "010 Arquivos de referências/pdf/LEFEVBRE. The Survival of Capitalism (1976).pdf",
+    "Sem título.md",
+    "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
+    "004 Cronograma/Semana 2.md"
   ]
 }
