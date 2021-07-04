@@ -7,10 +7,9 @@
         "id": "d8687dcdc36314f1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "005 Fichamentos/BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998).md",
-            "mode": "preview"
+            "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf"
           }
         }
       }
@@ -60,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304,
-    "collapsed": true
+    "width": 304
   },
   "right": {
     "id": "94bed1eb47249a1c",
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005 Fichamentos/BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998).md",
+                "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005 Fichamentos/BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998).md"
+                "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf"
               }
             }
           },
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005 Fichamentos/BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998).md",
+                "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005 Fichamentos/BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998).md",
+                "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,15 +160,15 @@
   },
   "active": "d8687dcdc36314f1",
   "lastOpenFiles": [
+    "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
+    "004 Cronograma/Semana 2.md",
+    "005 Fichamentos/BALTAZAR, Ana Paula - Além da representação_ possi.md",
     "005 Fichamentos/BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998).md",
     "010 Arquivos de referências/pdf/ARRUDA, Guilherme - Pedagogia sócio-espacial para democracia radical (2021).pdf",
-    "004 Cronograma/Semana 2.md",
     "006 Textos/Resumo ITCC processo.md",
     "006 Textos/Mapa mental - resumo.md",
     "006 Textos/Mapa mental.md",
     "005 Fichamentos/LEFEVBRE. The Survival of Capitalism (1976).md",
-    "ACR025 - Aula 02.md",
-    "007 Orientações/Reunião 21-4.md",
-    "007 Orientações/Reunião 16-5.md"
+    "ACR025 - Aula 02.md"
   ]
 }
