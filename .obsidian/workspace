@@ -6,23 +6,11 @@
       {
         "id": "ca4d859f01a7c976",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Line and Surface, FLUSSER {1997(2002)}.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "e6b0001c6009ba10",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf"
+            "file": "002 Temas/050 José Vitor.md",
+            "mode": "preview"
           }
         }
       }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Line and Surface, FLUSSER {1997(2002)}.md",
+                "file": "002 Temas/050 José Vitor.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Line and Surface, FLUSSER {1997(2002)}.md"
+                "file": "002 Temas/050 José Vitor.md"
               }
             }
           },
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Line and Surface, FLUSSER {1997(2002)}.md",
+                "file": "002 Temas/050 José Vitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Line and Surface, FLUSSER {1997(2002)}.md",
+                "file": "002 Temas/050 José Vitor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,15 +161,15 @@
   },
   "active": "ca4d859f01a7c976",
   "lastOpenFiles": [
-    "Line and Surface, FLUSSER {1997(2002)}.md",
+    "002 Temas/050 José Vitor.md",
+    "002 Temas/040 Produção do espaço.md",
+    "002 Temas/030 Pedagogia.md",
+    "ACR025 - Aula 02.md",
+    "Vilém Flusser.md",
+    "Line and Surface, FLUSSER {2002(1973)}.md",
+    "Highlights for FLUSSER, Writings (2002).md",
     "010 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
-    "010 Arquivos de referências/pdf/MARX. Crítica ao programa de Gotha. (1891) [2012].pdf",
-    "010 Arquivos de referências/pdf/MÉSZÁROS. A Educação para além do capital. [(1930) 2008].pdf",
-    "010 Arquivos de referências/pdf/MARX, ENGELS. A Ideologia Alemã (1932) [2002].pdf",
-    "010 Arquivos de referências/pdf/ILLICH. Sociedade sem Escolas. (1970) [1985].pdf",
-    "010 Arquivos de referências/pdf/LEFEVBRE. The Survival of Capitalism (1976).pdf",
-    "Sem título.md",
-    "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
-    "004 Cronograma/Semana 2.md"
+    "Line and Surface, FLUSSER {1997(2002)}.md",
+    "010 Arquivos de referências/pdf/MARX. Crítica ao programa de Gotha. (1891) [2012].pdf"
   ]
 }
