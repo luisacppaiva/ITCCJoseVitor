@@ -4,35 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c952f5f69d9ffd55",
-        "type": "split",
-        "children": [
-          {
-            "id": "ea318ce17c5f2235",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pecha Kucha 2 - Imagem.md",
-                "mode": "preview"
-              },
-              "pinned": true
-            }
+        "id": "ea318ce17c5f2235",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pecha Kucha 2 - Imagem.md",
+            "mode": "preview"
           },
-          {
-            "id": "d1555bce035c8b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conteúdo.md",
-                "mode": "source"
-              }
-            }
+          "pinned": true
+        }
+      },
+      {
+        "id": "a890d4c237e18648",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -97,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conteúdo.md",
+                "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conteúdo.md"
+                "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md"
               }
             }
           },
@@ -124,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conteúdo.md",
+                "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conteúdo.md",
+                "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,17 +172,17 @@
     "width": 282,
     "collapsed": true
   },
-  "active": "d1555bce035c8b96",
+  "active": "a890d4c237e18648",
   "lastOpenFiles": [
+    "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
+    "Sem título.md",
+    "020 Arquivos de referências/pdf/FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).pdf",
     "Conteúdo.md",
     "Pecha Kucha 2 - Imagem.md",
-    "Sem título.md",
     "007 Orientações/Reunião 21-6.md",
     "002 Temas/021 Imagem.md",
     "023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ACR025 - Aula 02.md",
     "ACR025 - Aula 02.md",
-    "Aula 2.md",
-    "PRJ - Arquitetura, tecnologias digitais e cultura contemporânea.md",
-    "002 Temas/050 José Vitor.md"
+    "Aula 2.md"
   ]
 }
