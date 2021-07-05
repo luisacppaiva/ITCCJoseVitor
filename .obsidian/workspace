@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md",
+            "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md",
+                "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md"
+                "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md",
+                "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md",
+                "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,15 +160,15 @@
   },
   "active": "5c5def5595823cf6",
   "lastOpenFiles": [
-    "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md",
     "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
+    "002 Temas/021 Imagem.md",
+    "002 Temas/020 Registro.md",
+    "007 Orientações/Pecha Kucha/020 Imagem.md",
+    "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md",
     "007 Orientações/Pecha Kucha/022 Síntese.md",
     "020 Arquivos de referências/pdf/BALTAZAR, Não existe arquitetura decolonial (2020).pdf",
     "005 Fichamentos/BALTAZAR, Ana - não existe arquitetura decolonial (2020).md",
     "BALTAZAR, Ana - arquitetura decolonial.pdf.md",
-    "005 Fichamentos/BALTAZAR, A sedução da imagem na arquitetura (2014).md",
-    "020 Arquivos de referências/pdf/BALTAZAR, A sedução da imagem na arquitetura (2014).pdf",
-    "007 Orientações/Pecha Kucha/020 Imagem.md",
-    "Highlights for BALTAZAR, A sedução da imagem na arquitetura (2014).md"
+    "005 Fichamentos/BALTAZAR, A sedução da imagem na arquitetura (2014).md"
   ]
 }
