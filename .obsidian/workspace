@@ -7,8 +7,11 @@
         "id": "5c5def5595823cf6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0070 Orientações/Reunião 5-7.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#trabalho",
+                "query": "tag:#marx",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0070 Orientações/Reunião 5-7.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0070 Orientações/Reunião 5-7.md"
+              }
             }
           },
           {
@@ -98,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0070 Orientações/Reunião 5-7.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -116,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "0070 Orientações/Reunião 5-7.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,6 +162,8 @@
   },
   "active": "5c5def5595823cf6",
   "lastOpenFiles": [
+    "0070 Orientações/Reunião 5-7.md",
+    "0070 Orientações/Reunião 1-7.md",
     "Orientação 5-7.md",
     "Sem título.md",
     "005 Fichamentos/BALTAZAR, Ana Paula - Além da representação_ possi.md",
@@ -160,8 +171,6 @@
     "005 Fichamentos/BALTAZAR, A sedução da imagem na arquitetura (2014).md",
     "001 Comece aqui/001 ITCC.md",
     "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
-    "003 Autores/Sérgio Ferro.md",
-    "002 Temas/011 Trabalho Livre.md",
-    "002 Temas/010 Trabalho.md"
+    "003 Autores/Sérgio Ferro.md"
   ]
 }

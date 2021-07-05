@@ -86,3 +86,13 @@ Orientação 05-07-2021
 
 
 - [ ] [Estrutura](https://www.amazon.com.br/dp/B00HWUW2OS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+- [ ] Pensar em perguntas para o Cabral
+	- Que envolvem o tema
+	- O que estamos querendo fazer 
+	- Talvez chamar Mauro e Marilene 
+
+# Pilares do #marx
+- Teoria do valor
+- Horizonte da revolução
+- Relações de trabalho
