@@ -37,7 +37,7 @@
  - TFTK -> grupo de tradução das obras do Sérgio Ferro
 ---
 
-# [[001 - Sergio Ferro]] + [Apresentação](https://slides.com/d/2VapxPU/live#/sergioferro)
+# [[010 - Sergio Ferro]] + [Apresentação](https://slides.com/d/2VapxPU/live#/sergioferro)
 
 - Manufatura serial: vem do francês 
 - O que importa mesmo é a manufatura heterogênea 

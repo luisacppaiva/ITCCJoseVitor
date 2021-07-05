@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ea318ce17c5f2235",
+        "id": "013f256bf2644154",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pecha Kucha 2 - Imagem.md",
-            "mode": "preview"
-          },
-          "pinned": true
+            "file": "005 Fichamentos/BALTAZAR, A sedução da imagem na arquitetura (2014).md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "a890d4c237e18648",
+        "id": "5c5def5595823cf6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
+            "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
             "mode": "source"
           }
         }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
+                "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md"
+                "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md"
               }
             }
           },
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
+                "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
+                "file": "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,17 +170,17 @@
     "width": 282,
     "collapsed": true
   },
-  "active": "a890d4c237e18648",
+  "active": "5c5def5595823cf6",
   "lastOpenFiles": [
-    "Highlights for FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).md",
-    "Sem título.md",
-    "020 Arquivos de referências/pdf/FLUSSER, A Imagem do Cachorro Morderá no futuro (1983).pdf",
-    "Conteúdo.md",
-    "Pecha Kucha 2 - Imagem.md",
-    "007 Orientações/Reunião 21-6.md",
-    "002 Temas/021 Imagem.md",
-    "023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ACR025 - Aula 02.md",
-    "ACR025 - Aula 02.md",
-    "Aula 2.md"
+    "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
+    "005 Fichamentos/BALTAZAR, A sedução da imagem na arquitetura (2014).md",
+    "007 Orientações/Pecha Kucha/020 Imagem.md",
+    "Highlights for BALTAZAR, A sedução da imagem na arquitetura (2014).md",
+    "020 Arquivos de referências/pdf/BALTAZAR, A sedução da imagem na arquitetura (2014).pdf",
+    "007 Orientações/Pecha Kucha/022 Síntese.md",
+    "007 Orientações/Reunião 21-4.md",
+    "021 Modelos/Cronograma.md",
+    "021 Modelos/Reunião.md",
+    "007 Orientações/Reunião 1-7.md"
   ]
 }
