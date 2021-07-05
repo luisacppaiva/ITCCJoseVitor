@@ -69,20 +69,20 @@ Orientação 05-07-2021
 
 # Referências novas: 
 - [ ] [Diálogos com Marx — EDUCAÇÃO E TRABALHO | Virgínia Fontes, Caio Antunes e Daniel Cara ](https://www.youtube.com/watch?v=lbd-njzb-lg)
-	> - [[030 Pedagogia]]
-	> - [[010 Trabalho]]
+	> - [[0300 Pedagogia]]
+	> - [[0100 Trabalho]]
 
 
 - [ ] [Palestra da Ana: Amanhã às 18h](https://www.youtube.com/watch?v=ivLZo8Nrh_A)
 - [ ] [História falada](https://acervo.museudapessoa.org/public/editor/hist%C3%B3ria_falada2.pdf) 
 - [ ] [Nosso programa](https://www.cidadefutura.com.br/wp-content/uploads/FLUSSER-Vil%C3%A9m.-P%C3%B3s-Hist%C3%B3ria-Vinte-instant%C3%A2neos-e-um-modo-de-usar.-Annablume-2011_compressed.pdf)
-> - [[021 Imagem]]
-> - [[020 Registro]]
+> - [[0201 Imagem]]
+> - [[0200 Registro]]
 
 
 - [ ] [City as wave](https://monoskop.org/File:Flusser_Vilem_2005_The_City_as_Wave%E2%80%90Trough_in_the_Image%E2%80%90Flood.pdf)
-> - [[021 Imagem]]
-> - [[020 Registro]]
+> - [[0201 Imagem]]
+> - [[0200 Registro]]
 
 
 - [ ] [Estrutura](https://www.amazon.com.br/dp/B00HWUW2OS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)

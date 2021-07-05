@@ -4,8 +4,8 @@
 	- [[#Fichamentos]]
 # Relações
 - [[001 Autores]]
--  [[010 Trabalho]]
-- [[013 Manufatura]]
+-  [[0100 Trabalho]]
+- [[0103 Manufatura]]
 - #trabalho, #manufatura, #trabalho, #tlivre, #tdivisão, #produçãoespaço 
 # Textos 
 - [[FERRO, Sergio. A Construção do Desenho Clássico (2021).pdf]]

@@ -1,8 +1,8 @@
 Reunião 28-06-2021
 # Relações: 
 - [[Karl Marx]]
-- [[019 Teoria do Valor]]
-- [[010 Trabalho]]
+- [[0109 Teoria do Valor]]
+- [[0100 Trabalho]]
 ==tags:== #reunião #marx #marxismo #trabalho #valor #valor_de_uso #valor_de_troca 
 
 ---

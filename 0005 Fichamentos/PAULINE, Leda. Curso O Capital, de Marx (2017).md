@@ -1,9 +1,9 @@
 PAULINE, Leda. Curso: O CAPITAL, de Marx, 2017. Disponível em: <https://www.youtube.com/watch?v=T9x0gFHuON4> Acesso em: 24 de junho de 2021
 	
 # Relações: 
-- [[017 Formação de mais-valia]]
-- [[018 Venda do trabalho]]
-- [[019 Teoria do Valor]] 
+- [[0107 Formação de mais-valia]]
+- [[0108 Venda do trabalho]]
+- [[0109 Teoria do Valor]] 
 
 ==tags==: #fichamento #marxismo #marx #trabalho #valor #Mais-valor #valor_de_uso #valor_de_troca #propriedade #C 
 

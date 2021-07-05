@@ -86,12 +86,12 @@ a prática da arquitetura se alterou desde o gótico românico até os tempos at
 
 # Indicações para ler #Marx 
 1. [[MARX, O Capital: Tomo I (1867) [2013].pdf]]: 
-	- [ ] [[013 Manufatura]]
-	- [ ] [[014 Cooperação Simples]]
-	-  [ ] [[015 Indústria]]
+	- [ ] [[0103 Manufatura]]
+	- [ ] [[0104 Cooperação Simples]]
+	-  [ ] [[0105 Indústria]]
 2. [[MARX, O Capital: Tomo 2 (1867) [2013].pdf]]: 
-	-  [ ] [[016 Crítica a queda decrescente da taxa de lucro]]
+	-  [ ] [[0106 Crítica a queda decrescente da taxa de lucro]]
 3. [[MARX, O Capital: Tomo I (1867) [2013].pdf]]: 
-	- [ ] [[017 Formação de mais-valia]] 
-	- [ ] [[018 Venda do trabalho]]
+	- [ ] [[0107 Formação de mais-valia]] 
+	- [ ] [[0108 Venda do trabalho]]
 	

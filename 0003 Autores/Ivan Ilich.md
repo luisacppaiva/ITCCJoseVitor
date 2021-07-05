@@ -4,7 +4,7 @@
 	- [[#Fichamentos]]
 # Relações
 - [[001 Autores]]
-- [[030 Pedagogia]], 
+- [[0300 Pedagogia]], 
 - ==tags==: #pse, #pedagogia 
 # Textos
 -  [[ILLICH. Sociedade sem Escolas. (1970) [1985].pdf]]

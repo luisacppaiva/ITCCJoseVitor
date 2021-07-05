@@ -2,7 +2,7 @@ LEFEVBRE, Henri. **The Survival of Capitalism**. Nova Iorque: St Martin's Press,
 	
 # Relações:
 -  [[Henri Lefevbre]]
-- [[040 Produção do espaço]]
+- [[0400 Produção do espaço]]
 - [[LEFEVBRE. The Survival of Capitalism (1976).pdf]]
 	
 ==tags==: #fichamento #lefevbre #marxismo #produçãoespaço #pse #pseespaço 

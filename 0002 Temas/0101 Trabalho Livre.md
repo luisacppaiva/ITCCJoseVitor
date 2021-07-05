@@ -3,9 +3,9 @@
 - [[#Textos]]
 	- [[#Fichamentos]]
 # Relações
-[[010 Trabalho]]
-[[012 Divisão do Trabalho]]
-[[013 Manufatura]]
+[[0100 Trabalho]]
+[[0102 Divisão do Trabalho]]
+[[0103 Manufatura]]
 ==tags:== #marxismo, #lefevbre, #trabalho, #ferro  
 # Textos 
 ## Fichamentos:

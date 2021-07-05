@@ -4,8 +4,8 @@
 	- [[#Fichamentos]]
 # Relações 
 - [[001 Autores]]
-- [[010 Trabalho]]
-- [[013 Manufatura]]
+- [[0100 Trabalho]]
+- [[0103 Manufatura]]
 #trabalho, #marx, #marxismo, #trabalho, #tdivisão 
 # Textos 
 - [[MARX, O Capital: Tomo 2 (1867) [2013].pdf]]

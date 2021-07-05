@@ -3,7 +3,7 @@
 - [[#Textos]]
 	- [[#Fichamentos]]
 # Relações 
-- [[040 Produção do espaço]]
+- [[0400 Produção do espaço]]
 - [[001 Autores]]
 ==tags==: #marxismo, #pseespaço, #produçãoespaço, #espaço 
 # Textos 

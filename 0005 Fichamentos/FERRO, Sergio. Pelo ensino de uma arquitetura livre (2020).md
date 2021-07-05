@@ -15,7 +15,7 @@
 ## Contexto
 - Três categorias de produção em [[MARX, O Capital: Tomo I (1867) [2013].pdf]]
 	- Eles classificaram o canteiro de obra como manufatura 
-	- [[013 Manufatura]]: divisão do trabalho entre equipes especializadas + gestão exterior (Marx diz que ele faz o papel do capataz) ^a0b613
+	- [[0103 Manufatura]]: divisão do trabalho entre equipes especializadas + gestão exterior (Marx diz que ele faz o papel do capataz) ^a0b613
 	- A manufatura que conhecemos é a manufatura do capital 
 	- No tempo românico era uma espécie de auto-gestão -> a igreja faz a encomenda do que ela quer e fica por aí mesmo 
 	- O canteiro era organizado por esses trabalhadores e eles decidiam o que iriam construir, o projeto era feito durante a produção da obra 

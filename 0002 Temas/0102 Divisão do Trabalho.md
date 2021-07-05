@@ -4,9 +4,9 @@
 	- [[#Fichamentos]]
 # Relações
 ==tags:== #marxismo, #trabalho, #tdivisão 
-[[010 Trabalho]]
-[[011 Trabalho Livre]]
-[[013 Manufatura]]
+[[0100 Trabalho]]
+[[0101 Trabalho Livre]]
+[[0103 Manufatura]]
 # Textos 
 ## Fichamentos:
 ## Citado em: 

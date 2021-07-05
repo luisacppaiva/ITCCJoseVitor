@@ -1,8 +1,8 @@
 MARX, Karl. **O Capital**: Crítica da economia política. Tomo I. São Paulo: Boitempo, [(1867) 2013]
 	
 # Relações:
-- [[012 Divisão do Trabalho]]
-- [[019 Teoria do Valor]]
+- [[0102 Divisão do Trabalho]]
+- [[0109 Teoria do Valor]]
 - [[Karl Marx]]
 
 ==tags==: #fichamento #valor #valor_de_uso #valor_de_troca #mercadoria #tdivisão #marx 

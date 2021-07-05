@@ -4,8 +4,8 @@
 	- [[#Fichamentos]]
 # Relações
 ==tags:== #baltazar, #registro, #rinterface, #rimagem, #rparadigma
-[[021 Imagem]]
-[[022 Interface]]
+[[0201 Imagem]]
+[[0202 Interface]]
 # Textos 
 ## Fichamentos:
 - [[BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998)]]

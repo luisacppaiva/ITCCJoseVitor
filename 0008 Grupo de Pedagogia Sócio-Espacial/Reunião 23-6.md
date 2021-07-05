@@ -5,7 +5,7 @@
 # Relações:
 - [[Henri Lefevbre]]
 - [[Pedagogia Sócio-Espacial]]
-- [[040 Produção do espaço]]
+- [[0400 Produção do espaço]]
 ==tags:== #reunião #lefevbre #marxismo #produçãoespaço #pseespaço 
 
 # Anotações 

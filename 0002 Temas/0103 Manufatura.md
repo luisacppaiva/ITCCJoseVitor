@@ -5,9 +5,9 @@
 	- [[#Fichamentos]]
 # Relações
 ==tags:== #marx, #ferro, #manufatura, #trabalho
-[[010 Trabalho]]
-[[011 Trabalho Livre]]
-[[012 Divisão do Trabalho]]
+[[0100 Trabalho]]
+[[0101 Trabalho Livre]]
+[[0102 Divisão do Trabalho]]
 # Textos 
 - [[MARX, O Capital: Tomo I (1867) [2013].pdf]]
 ## Fichamentos:

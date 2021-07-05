@@ -1,7 +1,7 @@
 FLUSSER, Vilém. **Writings**. Minnesota: University of Minnesota Press, (1973) [2002] 
 	
 # Relações:
-- [[021 Imagem]]
+- [[0201 Imagem]]
 - [[Vilém Flusser]]
 ==tags==: #fichamento #rimagem 
 # Sumário:  

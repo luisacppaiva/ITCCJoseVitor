@@ -1,10 +1,10 @@
 Reunião 05-07-2021
 # Relações: 
 - [[Karl Marx]]
-- [[010 Trabalho]]
-- [[018 Venda do trabalho]]
-- [[017 Formação de mais-valia]]
-- [[019 Teoria do Valor]]
+- [[0100 Trabalho]]
+- [[0108 Venda do trabalho]]
+- [[0107 Formação de mais-valia]]
+- [[0109 Teoria do Valor]]
 
 
 ==tags:== #reunião #marx #marxismo 
@@ -57,4 +57,5 @@ Reunião 05-07-2021
 	- incorporação do valor no urbano. 
 
 - O que conecta a circulação de mercadoria é que se produz mercadoria para o uso do outro. 
+- Se é a força de trabalho que coagula valor na mercadoria, o capital se valoriza através da força de trabalho -> Mas o capital tenta se valorizar sem o trabalho (automatização). 
 - 

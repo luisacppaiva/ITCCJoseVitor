@@ -4,9 +4,9 @@
 	- [[#Fichamentos]]
 # Relações
 ==tags:== #marxismo, #lefevbre, #trabalho, #registro 
-[[011 Trabalho Livre]]
-[[012 Divisão do Trabalho]]
-[[013 Manufatura]]
+[[0101 Trabalho Livre]]
+[[0102 Divisão do Trabalho]]
+[[0103 Manufatura]]
 # Textos 
 
 ## Fichamentos:

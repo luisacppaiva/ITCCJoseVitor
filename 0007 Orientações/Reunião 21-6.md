@@ -72,7 +72,7 @@
 - Bourdier: ele olha para todas as relações como relações de dominação, elas só vem de cima para baixo e pronto. 
 - Se você olha para relações internas, existem diferenças entre os acúmulos de capital 
 - Descrever longamente as coisas -> caderno de campo? 
-- [[021 Imagem]]: Line and Surface - #Flusser 
+- [[0201 Imagem]]: Line and Surface - #Flusser 
 	- Lógica da imagem 
 	- Lógica da estrutura 
 	- **LER EM INGLÊS** 

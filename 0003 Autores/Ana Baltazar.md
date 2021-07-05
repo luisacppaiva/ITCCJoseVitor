@@ -3,7 +3,7 @@
 - [[#Textos]]
 	- [[#Fichamentos]]
 # Relações 
-- [[001 Autores]] [[020 Registro]], #registro, #rimagem, #rinterface, #interface
+- [[001 Autores]] [[0200 Registro]], #registro, #rimagem, #rinterface, #interface
 # Textos 
 - [[BALTAZAR,  Multimídia Interativa e Registro da Arquitetura (1998).pdf]]
 - [[BALTAZAR, A sedução da imagem na arquitetura (2014).pdf]]
