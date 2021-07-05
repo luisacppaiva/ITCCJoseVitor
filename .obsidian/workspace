@@ -7,9 +7,10 @@
         "id": "5c5def5595823cf6",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "020 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf"
+            "file": "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
+            "mode": "preview"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#rimagem",
+                "query": "tag:#trabalho",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
+                "file": "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf"
+                "file": "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
+                "file": "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "020 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
+                "file": "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,15 +160,15 @@
   },
   "active": "5c5def5595823cf6",
   "lastOpenFiles": [
+    "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
+    "003 Autores/Sérgio Ferro.md",
+    "002 Temas/011 Trabalho Livre.md",
+    "002 Temas/010 Trabalho.md",
+    "020 Arquivos de referências/pdf/MARX, O Capital: Tomo I (1867) [2013].pdf",
+    "020 Arquivos de referências/pdf/MARX, O Capital: Tomo 2 (1867) [2013].pdf",
+    "020 Arquivos de referências/pdf/MARX, O Capital Tomo I (1867) [2013]-162-191.pdf",
+    "020 Arquivos de referências/pdf/MARX, O Capital Tomo I (1867) [2013]-1-162.pdf",
     "020 Arquivos de referências/pdf/FLUSSER, Writings (2002).pdf",
-    "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md",
-    "007 Orientações/Pecha Kucha/021 Conteúdo importante.md",
-    "002 Temas/021 Imagem.md",
-    "002 Temas/020 Registro.md",
-    "007 Orientações/Pecha Kucha/020 Imagem.md",
-    "007 Orientações/Pecha Kucha/022 Síntese.md",
-    "020 Arquivos de referências/pdf/BALTAZAR, Não existe arquitetura decolonial (2020).pdf",
-    "005 Fichamentos/BALTAZAR, Ana - não existe arquitetura decolonial (2020).md",
-    "BALTAZAR, Ana - arquitetura decolonial.pdf.md"
+    "005 Fichamentos/Line and Surface, FLUSSER {2002(1973)}.md"
   ]
 }
