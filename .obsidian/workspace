@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0070 Orientações/Reunião 5-7.md",
-            "mode": "preview"
+            "file": "0230 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#marx",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0070 Orientações/Reunião 5-7.md",
+                "file": "0230 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0070 Orientações/Reunião 5-7.md"
+                "file": "0230 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md"
               }
             }
           },
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0070 Orientações/Reunião 5-7.md",
+                "file": "0230 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0070 Orientações/Reunião 5-7.md",
+                "file": "0230 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,6 +161,7 @@
   },
   "active": "5c5def5595823cf6",
   "lastOpenFiles": [
+    "0230 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/Sem título.md",
     "0070 Orientações/Reunião 5-7.md",
     "0070 Orientações/Reunião 1-7.md",
     "Orientação 5-7.md",
@@ -170,7 +170,6 @@
     "005 Fichamentos/BALTAZAR, Ana Paula - Multimídia Interativa e Registro da Arquitetura (1998).md",
     "005 Fichamentos/BALTAZAR, A sedução da imagem na arquitetura (2014).md",
     "001 Comece aqui/001 ITCC.md",
-    "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md",
-    "003 Autores/Sérgio Ferro.md"
+    "005 Fichamentos/FERRO, Sergio. Pelo ensino de uma arquitetura livre (2020).md"
   ]
 }
