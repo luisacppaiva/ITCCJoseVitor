@@ -22,6 +22,8 @@ BALTAZAR, Ana Paula - Além da representação: possibilidades das novas mídias
 - O observador é reduzido a um olho, além de sua posição ser fixa e o objeto ser estático. A precisão perspectívica é a precisão da ciência, da matemática, que transforma a realidade em modelos para que possa ser analisada. Assim, podemos considerar uma possível precisão da perspectiva e da geometria descritiva cientificamente, já que permite uma avaliação do objeto representado e as limitações do método são conhecidas pelos cientistas. (...) Assim, a precisão da perspectiva só é válida à luz da capacidade de imaginar a hipotética profundidade, que se encontra desenhada em comprimentos e distâncias. (p. 9)
 - Não podemos considerar a arquitetura um objeto tridimensional, temos a certeza de pelo menos mais duas dimensões — tempo e comportamento — e, portanto, a representação perspectívica está três dimensões aquém da arquitetura. (p. 9)
 -  o paradigma perspectívico é fundamentalmente perverso por promover o modo de produção capitalista do espaço, que implica a reprodução das relações sociais de produção, a separação entre trabalho intelectual e manual, a consequente separação entre projeto, construção e uso, e a transformação do espaço em mercadoria com ênfase no valor de troca em detrimento do valor de uso. (p. 10)
+
+
 # Divisão do trabalho na arquitetura 
 - Ou seja, ainda que fosse possível reverter a perda de dimensões advinda com a representação, a mudança de paradigma só aconteceria se houvesse uma mudança radical no modo de produção. (p.1)
 -  uma vez que podemos imaginar uma arquitetura que não se fixe em estado permanente e cuja produção não seja pautada pela reiteração do espaço concebido com sua separação clara da construção e do uso. (p. 2)
