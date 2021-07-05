@@ -68,7 +68,11 @@ Orientação 05-07-2021
 
 
 # Referências novas: 
-- [ ] 
+- [ ] [Diálogos com Marx — EDUCAÇÃO E TRABALHO | Virgínia Fontes, Caio Antunes e Daniel Cara ](https://www.youtube.com/watch?v=lbd-njzb-lg)
+	> - [[030 Pedagogia]]
+	> - [[010 Trabalho]]
+
+
 - [ ] 
 - [ ] 
 - [ ] 
