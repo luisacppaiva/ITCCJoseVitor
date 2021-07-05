@@ -7,7 +7,7 @@ Reunião 05-07-2021
 - [[0109 Teoria do Valor]]
 
 
-==tags:== #reunião #marx #marxismo 
+==tags:== #reunião #marx #marxismo #v #Mais-valor #m 
 
 ---
 # Sumário: 
@@ -58,4 +58,5 @@ Reunião 05-07-2021
 
 - O que conecta a circulação de mercadoria é que se produz mercadoria para o uso do outro. 
 - Se é a força de trabalho que coagula valor na mercadoria, o capital se valoriza através da força de trabalho -> Mas o capital tenta se valorizar sem o trabalho (automatização). 
+- Definição de valor: p. 230 -> Tem que diferenciar para manifestar, mas depois volta a ser a mesma coisa. 
 - 

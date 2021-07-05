@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0002 Temas/0500 José Vitor.md",
+            "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0002 Temas/0500 José Vitor.md",
+                "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0002 Temas/0500 José Vitor.md"
+                "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0002 Temas/0500 José Vitor.md",
+                "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0002 Temas/0500 José Vitor.md",
+                "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,6 +161,8 @@
   },
   "active": "5c5def5595823cf6",
   "lastOpenFiles": [
+    "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
+    "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ACR025 - Aula 02.md",
     "0020 Temas/0500 José Vitor.md",
     "0020 Temas/0220 Interface.md",
     "0020 Temas/0180 Venda do trabalho.md",
@@ -168,8 +170,6 @@
     "0020 Temas/016 Crítica a queda decrescente da taxa de lucro.md",
     "0230 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/Sem título.md",
     "0070 Orientações/Reunião 5-7.md",
-    "0070 Orientações/Reunião 1-7.md",
-    "Orientação 5-7.md",
-    "Sem título.md"
+    "0070 Orientações/Reunião 1-7.md"
   ]
 }
