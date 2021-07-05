@@ -19,6 +19,13 @@ Reunião 05-07-2021
 	- Procurar uma palavra chave para cada seção do texto 
 	- Ideia chave do que foi entendido 
 
+# Pontos chave
+- Condição de troca
+- Como a mercadoria circula? E como circula o Capital? 
+- A primeira subjetividade: quem é o possuidor do dinheiro? (p. 229) 
+	- Descrição da ação de um sujeito (o capitalista); 
+- O objetivo é comprar para vender -> Vendedor;  
+
 # Transformação do dinheiro em capital 
 - D - M - D' -> tem que resultar em uma quantidade maior de dinheiro.
 - Tanto o ponto de chegada quanto o ponto de partida são o dinheiro -> o que medeia essa troca de dinheiro é a mercadoria. 
@@ -29,4 +36,25 @@ Reunião 05-07-2021
 - Dinheiro antes do capitalismo era a expressão do valor da mercadoria. 
 - O dinheiro no capital só se torna capital quando entra no modo de produção capitalista. 
 - É sempre crescente a tendência da sociedade para valorização do valor. 
-	- A forma social baseada no processo circular e auto referente carrega as contradições e os entraves da sua
+	- A forma social baseada no processo circular e auto referente carrega as contradições e os entraves da sua produção. 
+- Não existe entesouramento de Capital e sim de dinheiro. 
+- A circulação é um **movimento circular** de produção.
+- Capital #C é movimento de dinheiro e #V valor é processo. 
+- A ideia de movimento é *inseparável* do capital. 
+- Dinheiro é aquilo que apaga a materialidade -> O objetivo é o dinheiro 
+	- A ação e matéria pouco importa 
+
+- Capital é aquilo que aparece como #Mais-valor. 
+- #V -> sujeito automático do processo. 
+	- O que está em jogo aqui é o #Mais-valor. 
+	- É a única coisa automática 
+	- Circulação é a produção de valor, o que vai além da mercadoria, que só vale como modo de existência do valor. 
+
+
+- Mercadoria = forma coagulada do valor em que o #v busca se valorizar. 
+- #lefevbre -> se valor é processo e o urbano é o processo -> ele coloca o urbano no lugar do valor 
+	- o urbano *supera* o valor, o absorvendo. 
+	- incorporação do valor no urbano. 
+
+- O que conecta a circulação de mercadoria é que se produz mercadoria para o uso do outro. 
+- 
